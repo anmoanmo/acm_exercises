@@ -1,0 +1,3 @@
+﻿  test.cpp
+D:\code\studio\cpp\luogu_9_2023\luogu9_13\luogu9_13\test.cpp(191,13): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+  luogu9_13.vcxproj -> D:\code\studio\cpp\luogu_9_2023\luogu9_13\x64\Debug\luogu9_13.exe
