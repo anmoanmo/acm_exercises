@@ -24,5 +24,38 @@
     <ClCompile Include="B.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="H.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="D.cpp">
+      <Filter>头文件</Filter>
+    </ClCompile>
+    <ClCompile Include="E.cpp">
+      <Filter>头文件</Filter>
+    </ClCompile>
+    <ClCompile Include="F.cpp">
+      <Filter>头文件</Filter>
+    </ClCompile>
+    <ClCompile Include="G.cpp">
+      <Filter>头文件</Filter>
+    </ClCompile>
+    <ClCompile Include="K.cpp">
+      <Filter>头文件</Filter>
+    </ClCompile>
+    <ClCompile Include="I.cpp">
+      <Filter>头文件</Filter>
+    </ClCompile>
+    <ClCompile Include="L.cpp">
+      <Filter>头文件</Filter>
+    </ClCompile>
+    <ClCompile Include="J.cpp">
+      <Filter>头文件</Filter>
+    </ClCompile>
+    <ClCompile Include="M.cpp">
+      <Filter>头文件</Filter>
+    </ClCompile>
+    <ClCompile Include="N.cpp">
+      <Filter>头文件</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
