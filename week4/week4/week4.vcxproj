@@ -141,6 +141,7 @@
     <ClCompile Include="L.cpp" />
     <ClCompile Include="M.cpp" />
     <ClCompile Include="N.cpp" />
+    <ClCompile Include="O.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
