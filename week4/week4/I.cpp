@@ -99,57 +99,62 @@
 //    return 0;
 //}
 
-//
-//#include<iostream>
-//#include<stack>
-//#include<vector>
-//#include<string>
-//#include<algorithm>
-//
-//using namespace std;
-//
-//bool judge(string& a, string& b, string& out) {
-//	int index1 = 0, index2 = 0;
-//	stack<int> s;
-//	while (index2 < a.length()) {
-//		if (s.empty() || s.top() != b[index2]) {
-//			if (index1 >= a.length()) {
-//				return false;
-//			}
-//			else {
-//				s.push(a[index1]);
-//				index1++;
-//				out += "in\n";
-//			}
-//		}
-//		else {
-//			s.pop();
-//			index2++;
-//			out += "out\n";
-//		}
-//
-//	}
-//	return true;
-//}
-//
-//int main() {
-//	while (1) {
-//		int n = 0;
-//		cin >> n;
-//		while (n--) {
-//			string a, b;
-//			cin >> a >> b;
-//			string out;
-//
-//			if (judge(a, b, out)) {
-//				cout << "Yes." << endl;
-//				cout << out << endl;
-//				cout << "FINISH" << endl;
-//			}
-//			else {
-//				cout << "No." << endl;
-//				cout << "FINISH" << endl;
-//			}
-//		}
-//	}
-//}
+
+#include<iostream>
+#include<stack>
+#include<vector>
+#include<string>
+#include<algorithm>
+
+using namespace std;
+
+bool judge(string& a, string& b, string& out) {
+	int index1 = 0, index2 = 0;
+	stack<int> s;
+	while (index2 < a.length()) {
+		if (s.empty() || s.top() != b[index2]) {
+			if (index1 >= a.length()) {
+				return false;
+			}
+			else {
+				s.push(a[index1]);
+				index1++;
+				out += "in\n";
+			}
+		}
+		else {
+			s.pop();
+			index2++;
+			if (index2 < b.length()) {
+				out += "out\n";
+			}
+			else {
+				out += "out";
+			}
+		}
+
+	}
+	return true;
+}
+
+int main() {
+	while (1) {
+		int n = 0;
+		cin >> n;
+		while (n--) {
+			string a, b;
+			cin >> a >> b;
+			string out;
+
+			if (judge(a, b, out)) {
+				cout << "Yes." << endl;
+				cout << out << endl;
+				cout << "FINISH" << endl;
+			}
+			else {
+				cout << "No." << endl;
+				cout << "FINISH" << endl;
+			}
+		}
+	}
+}
