@@ -131,6 +131,8 @@
     <ClCompile Include="B.cpp" />
     <ClCompile Include="C.cpp" />
     <ClCompile Include="D.cpp" />
+    <ClCompile Include="E.cpp" />
+    <ClCompile Include="H.cpp" />
     <ClCompile Include="J.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
