@@ -81,37 +81,37 @@
 //}
 
 //²î·ÖÊý×é
-#include <iostream>
-#include <vector>
-
-using namespace std;
-
-int main() {
-    long n, m;
-    cin >> n >> m;
-
-    vector<long long> colors(n, 0); 
-    vector<long long> v(n + 1, 0); 
-
-    while (m--) {
-        long begin, end;
-        cin >> begin >> end;
-
-        v[begin - 1]++; 
-        v[end]--; 
-    }
-
-    long long color = 0;
-
-    for (long i = 0; i < n; i++) {
-        color += v[i];
-        colors[i] = color;
-    }
-
-    for (long i = 0; i < n; i++) {
-        cout << colors[i] << " ";
-    }
-    cout << endl;
-
-    return 0;
-}
+//#include <iostream>
+//#include <vector>
+//
+//using namespace std;
+//
+//int main() {
+//    long n, m;
+//    cin >> n >> m;
+//
+//    vector<long long> colors(n, 0); 
+//    vector<long long> v(n + 1, 0); 
+//
+//    while (m--) {
+//        long begin, end;
+//        cin >> begin >> end;
+//
+//        v[begin - 1]++; 
+//        v[end]--; 
+//    }
+//
+//    long long color = 0;
+//
+//    for (long i = 0; i < n; i++) {
+//        color += v[i];
+//        colors[i] = color;
+//    }
+//
+//    for (long i = 0; i < n; i++) {
+//        cout << colors[i] << " ";
+//    }
+//    cout << endl;
+//
+//    return 0;
+//}

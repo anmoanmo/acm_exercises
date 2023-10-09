@@ -1,2 +1,9 @@
-﻿  H.cpp
+﻿  G.cpp
+D:\code\studio\cpp\学校acm\acm_exercises\week5\week5\G.cpp(19,19): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+D:\code\studio\cpp\学校acm\acm_exercises\week5\week5\G.cpp(39,8): warning C4477: “scanf”: 格式字符串“%lld”需要类型“__int64 *”的参数，但可变参数 1 拥有了类型“int *”
+D:\code\studio\cpp\学校acm\acm_exercises\week5\week5\G.cpp(39,8): message : 请考虑在格式字符串中使用“%d”
+D:\code\studio\cpp\学校acm\acm_exercises\week5\week5\G.cpp(39,8): message : 请考虑在格式字符串中使用“%I32d”
+D:\code\studio\cpp\学校acm\acm_exercises\week5\week5\G.cpp(39,8): warning C4477: “scanf”: 格式字符串“%lld”需要类型“__int64 *”的参数，但可变参数 2 拥有了类型“int *”
+D:\code\studio\cpp\学校acm\acm_exercises\week5\week5\G.cpp(39,8): message : 请考虑在格式字符串中使用“%d”
+D:\code\studio\cpp\学校acm\acm_exercises\week5\week5\G.cpp(39,8): message : 请考虑在格式字符串中使用“%I32d”
   week5.vcxproj -> D:\code\studio\cpp\学校acm\acm_exercises\week5\x64\Debug\week5.exe
