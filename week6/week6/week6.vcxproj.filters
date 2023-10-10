@@ -39,5 +39,20 @@
     <ClCompile Include="G.cpp">
       <Filter>头文件</Filter>
     </ClCompile>
+    <ClCompile Include="H.cpp">
+      <Filter>头文件</Filter>
+    </ClCompile>
+    <ClCompile Include="J.cpp">
+      <Filter>头文件</Filter>
+    </ClCompile>
+    <ClCompile Include="N.cpp">
+      <Filter>头文件</Filter>
+    </ClCompile>
+    <ClCompile Include="R.cpp">
+      <Filter>头文件</Filter>
+    </ClCompile>
+    <ClCompile Include="S.cpp">
+      <Filter>头文件</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
