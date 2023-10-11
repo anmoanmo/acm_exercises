@@ -135,7 +135,9 @@
     <ClCompile Include="F.cpp" />
     <ClCompile Include="G.cpp" />
     <ClCompile Include="H.cpp" />
+    <ClCompile Include="I.cpp" />
     <ClCompile Include="J.cpp" />
+    <ClCompile Include="K.cpp" />
     <ClCompile Include="N.cpp" />
     <ClCompile Include="O.cpp" />
     <ClCompile Include="R.cpp" />

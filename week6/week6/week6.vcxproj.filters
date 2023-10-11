@@ -54,5 +54,11 @@
     <ClCompile Include="S.cpp">
       <Filter>头文件</Filter>
     </ClCompile>
+    <ClCompile Include="I.cpp">
+      <Filter>头文件</Filter>
+    </ClCompile>
+    <ClCompile Include="K.cpp">
+      <Filter>头文件</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
