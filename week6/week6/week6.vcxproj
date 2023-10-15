@@ -140,6 +140,8 @@
     <ClCompile Include="K.cpp" />
     <ClCompile Include="N.cpp" />
     <ClCompile Include="O.cpp" />
+    <ClCompile Include="P.cpp" />
+    <ClCompile Include="Q.cpp" />
     <ClCompile Include="R.cpp" />
     <ClCompile Include="S.cpp" />
   </ItemGroup>
