@@ -21,7 +21,19 @@
     <ClCompile Include="C.cpp">
       <Filter>头文件</Filter>
     </ClCompile>
+    <ClCompile Include="G.cpp">
+      <Filter>头文件</Filter>
+    </ClCompile>
+    <ClCompile Include="F.cpp">
+      <Filter>头文件</Filter>
+    </ClCompile>
+    <ClCompile Include="E.cpp">
+      <Filter>头文件</Filter>
+    </ClCompile>
     <ClCompile Include="D.cpp">
+      <Filter>头文件</Filter>
+    </ClCompile>
+    <ClCompile Include="B.cpp">
       <Filter>头文件</Filter>
     </ClCompile>
   </ItemGroup>
