@@ -36,5 +36,14 @@
     <ClCompile Include="B.cpp">
       <Filter>头文件</Filter>
     </ClCompile>
+    <ClCompile Include="H.cpp">
+      <Filter>头文件</Filter>
+    </ClCompile>
+    <ClCompile Include="I.cpp">
+      <Filter>头文件</Filter>
+    </ClCompile>
+    <ClCompile Include="J.cpp">
+      <Filter>头文件</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
