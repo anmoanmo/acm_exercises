@@ -1,0 +1,6 @@
+﻿  A.cpp
+  E.cpp
+  F.cpp
+D:\code\studio\cpp\学校acm\acm_exercises\week8\week8\F.cpp(19,15): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+  正在生成代码...
+  week8.vcxproj -> D:\code\studio\cpp\学校acm\acm_exercises\week8\x64\Debug\week8.exe
