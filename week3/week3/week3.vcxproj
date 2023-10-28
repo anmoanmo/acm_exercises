@@ -133,7 +133,7 @@
     <ClCompile Include="I.cpp" />
     <ClCompile Include="J.cpp" />
     <ClCompile Include="K.cpp" />
-    <ClCompile Include="test.cpp" />
+    <ClCompile Include="G.cpp" />
     <ClCompile Include="源.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />

@@ -98,6 +98,7 @@
 //		for (int i = 0; i < 3; i++) {
 //			cout << scores[i] << " ";
 //		}
+// 
 //		cout << endl;
 //	}
 //	return 0;

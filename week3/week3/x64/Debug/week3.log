@@ -1,2 +1,8 @@
-﻿  K.cpp
-  week3.vcxproj -> D:\code\studio\cpp\学校acm\week3\x64\Debug\week3.exe
+﻿  E.cpp
+  K.cpp
+D:\code\studio\cpp\学校acm\acm_exercises\week3\week3\K.cpp(86,26): warning C4334: “<<”: 32 位移位的结果被隐式转换为 64 位(是否希望进行 64 位移位?)
+D:\code\studio\cpp\学校acm\acm_exercises\week3\week3\K.cpp(89,14): warning C4334: “<<”: 32 位移位的结果被隐式转换为 64 位(是否希望进行 64 位移位?)
+D:\code\studio\cpp\学校acm\acm_exercises\week3\week3\K.cpp(92,16): warning C4334: “<<”: 32 位移位的结果被隐式转换为 64 位(是否希望进行 64 位移位?)
+  G.cpp
+  正在生成代码...
+  week3.vcxproj -> D:\code\studio\cpp\学校acm\acm_exercises\week3\x64\Debug\week3.exe
