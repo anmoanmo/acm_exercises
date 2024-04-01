@@ -4,20 +4,13 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8b4277fd-a70c-40c0-a038-d00ec0a228de" name="更改" comment="2024/3/26 21:02">
-      <change afterPath="$PROJECT_DIR$/11.动态规划/数字三角形.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/校训联赛/test.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/校训联赛/乘积尾零.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/校训联赛/凌凌,质数.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/校训联赛/凌凌，斐波那契.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/校训联赛/咕咕鱼的小妙招.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/校训联赛/回文,日期.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/校训联赛/小亮翻跟头.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/校训联赛/小明与赛博朋克.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/校训联赛/货物摆放.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+    <list default="true" id="8b4277fd-a70c-40c0-a038-d00ec0a228de" name="更改" comment="2024/3/29 13:05">
+      <change afterPath="$PROJECT_DIR$/2023A/三国游戏.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2023A/分糖果.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2023A/反转.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2023A/子矩阵.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2023A/特殊日期.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/11.动态规划/Matrix-chain Multiplication.py" beforeDir="false" afterPath="$PROJECT_DIR$/11.动态规划/Matrix-chain Multiplication.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -62,16 +55,21 @@
     &quot;Python.Fibonacci Number.executor&quot;: &quot;Run&quot;,
     &quot;Python.Longest Common Subsequence.executor&quot;: &quot;Run&quot;,
     &quot;Python.test.executor&quot;: &quot;Run&quot;,
+    &quot;Python.三国游戏.executor&quot;: &quot;Run&quot;,
     &quot;Python.乘积尾零.executor&quot;: &quot;Run&quot;,
     &quot;Python.凌凌,质数.executor&quot;: &quot;Run&quot;,
     &quot;Python.凌凌，斐波那契.executor&quot;: &quot;Run&quot;,
+    &quot;Python.分糖果.executor&quot;: &quot;Run&quot;,
     &quot;Python.单词分析.executor&quot;: &quot;Run&quot;,
     &quot;Python.双向排序.executor&quot;: &quot;Run&quot;,
+    &quot;Python.反转.executor&quot;: &quot;Run&quot;,
     &quot;Python.咕咕鱼的小妙招.executor&quot;: &quot;Run&quot;,
     &quot;Python.回文,日期.executor&quot;: &quot;Run&quot;,
+    &quot;Python.子矩阵.executor&quot;: &quot;Run&quot;,
     &quot;Python.小明与赛博朋克.executor&quot;: &quot;Run&quot;,
     &quot;Python.成绩统计.executor&quot;: &quot;Run&quot;,
     &quot;Python.数字三角形.executor&quot;: &quot;Run&quot;,
+    &quot;Python.特殊日期.executor&quot;: &quot;Run&quot;,
     &quot;Python.货物摆放.executor&quot;: &quot;Run&quot;,
     &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
@@ -87,7 +85,7 @@
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Python.回文,日期">
+  <component name="RunManager" selected="Python.咕咕鱼的小妙招">
     <configuration name="咕咕鱼的小妙招" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="lanqiao" />
       <option name="ENV_FILES" value="" />
@@ -249,6 +247,98 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="分糖果" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="lanqiao" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/2023A" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/2023A/分糖果.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="三国游戏" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="lanqiao" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/2023A" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/2023A/三国游戏.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="反转" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="lanqiao" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/2023A" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/2023A/反转.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="子矩阵" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="lanqiao" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/2023A" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/2023A/子矩阵.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="数字三角形" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="lanqiao" />
       <option name="ENV_FILES" value="" />
@@ -295,7 +385,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="凌凌,质数" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="特殊日期" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="lanqiao" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -304,12 +394,35 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/校训联赛" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/2023A" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/校训联赛/凌凌,质数.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/2023A/特殊日期.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="分糖果" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="lanqiao" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/2023A" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/2023A/分糖果.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -356,29 +469,6 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/校训联赛/回文,日期.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="test" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="lanqiao" />
-      <option name="ENV_FILES" value="" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/校训联赛" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/校训联赛/test.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -389,10 +479,7 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.回文,日期" />
         <item itemvalue="Python.咕咕鱼的小妙招" />
-        <item itemvalue="Python.test" />
-        <item itemvalue="Python.凌凌,质数" />
       </list>
     </recent_temporary>
   </component>
@@ -441,7 +528,10 @@
       <workItem from="1711515005102" duration="4696000" />
       <workItem from="1711597333154" duration="10157000" />
       <workItem from="1711624307177" duration="4389000" />
-      <workItem from="1711686678749" duration="1087000" />
+      <workItem from="1711686678749" duration="1709000" />
+      <workItem from="1711887586905" duration="6109000" />
+      <workItem from="1711958884530" duration="6524000" />
+      <workItem from="1711969923764" duration="368000" />
     </task>
     <task id="LOCAL-00001" summary="2024/3/19 20:02">
       <option name="closed" value="true" />
@@ -491,7 +581,15 @@
       <option name="project" value="LOCAL" />
       <updated>1711458384940</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="2024/3/29 13:05">
+      <option name="closed" value="true" />
+      <created>1711688753744</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1711688753744</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -526,13 +624,14 @@
     </ignored-roots>
     <MESSAGE value="2024/3/19 20:02" />
     <MESSAGE value="2024/3/26 21:02" />
-    <option name="LAST_COMMIT_MESSAGE" value="2024/3/26 21:02" />
+    <MESSAGE value="2024/3/29 13:05" />
+    <option name="LAST_COMMIT_MESSAGE" value="2024/3/29 13:05" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/lanqiao$_.coverage" NAME="回文,日期 覆盖结果" MODIFIED="1711687484247" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/校训联赛" />
     <SUITE FILE_PATH="coverage/lanqiao$test.coverage" NAME="test 覆盖结果" MODIFIED="1711619970249" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/校训联赛" />
     <SUITE FILE_PATH="coverage/lanqiao$Fibonacci_Number.coverage" NAME="Fibonacci Number 覆盖结果" MODIFIED="1711443682738" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/11.动态规划" />
-    <SUITE FILE_PATH="coverage/lanqiao$.coverage" NAME="咕咕鱼的小妙招 覆盖结果" MODIFIED="1711630614823" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/校训联赛" />
+    <SUITE FILE_PATH="coverage/lanqiao$.coverage" NAME="子矩阵 覆盖结果" MODIFIED="1711964737639" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/2023A" />
     <SUITE FILE_PATH="coverage/lanqiao$Longest_Common_Subsequence.coverage" NAME="Longest Common Subsequence 覆盖结果" MODIFIED="1711457644791" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/11.动态规划" />
   </component>
 </project>
