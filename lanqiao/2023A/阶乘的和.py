@@ -5,22 +5,47 @@
 @IDE:PyCharm
 =============================
 """
-a = [1]
-for i in range(2, 10**4+10):
-    a.append(a[-1]*i)
+#
+# n = int(input())
+# l = list(map(int, input().split()))
+# l.sort()
+#
+# ans = l[0]
+# t = ans + 1
+# count = 0
+# while True:
+#     for i in l:
+#         if i == ans:
+#             count += 1
+#     if count % t == 0:
+#         count //= t
+#         t += 1
+#         ans += 1
+#     else:
+#         break
+#
+# print(ans)
 
 n = int(input())
-A = list(map(int, input().split()))
-A.sort()
-max1 = 0
-sum1 = 0
-for i in A:
-    sum1 += a[i-1]
-    print("awa" +str(a[2]))
+data = list(map(int, input().split()))
+data.sort()
 
-    if a[i-1] > max1:
-        max1 = a[i-1]
-    if sum1 in a and sum1 > max1:
-        max1 = sum1
+from collections import defaultdict
+d = defaultdict(int)
 
-print(a.index(max1) + 1)
+for i in data:
+    d[i] += 1
+
+
+ans = data[0]
+f = 0
+
+while True:
+  if d[ans]%(ans+1) == 0:
+    d[ans+1] += d[ans]//(ans+1)
+    ans += 1
+  else:
+    break
+
+print(ans)
+
