@@ -9,9 +9,7 @@ def fc(a1, a2, n, k):
     if a1-a2 >= 0 or k == 0:
         return False
     while max(0, 2 * a1 - a2) >=k:
-        temp = a1
-        a1 = 2 * a1 - a2
-        a2 = temp
+        a1, a2 = 2 * a1 - a2, a1
         n += 1
     n += 1
     return n
