@@ -5,12 +5,10 @@
 @IDE:PyCharm
 =============================
 """
-from a34 import Solution
+from a69 import Solution
 
 sol = Solution()
-s = input().strip('[]')
-nums = list(map(int, s.split(',')))
-target = int(input())
+x = int(input())
 
-print(sol.searchRange(nums, target))
+print(sol.mySqrt(x))
 

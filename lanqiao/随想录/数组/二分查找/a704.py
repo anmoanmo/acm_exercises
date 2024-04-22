@@ -12,7 +12,7 @@ class Solution:
         length = len(nums)
         l = 0; r = length
         while l < r:
-            mid = (l + r) // 2
+            mid = l + (r - l)//2
             if nums[mid] == target:
                 return mid
             if nums[mid] < target:
