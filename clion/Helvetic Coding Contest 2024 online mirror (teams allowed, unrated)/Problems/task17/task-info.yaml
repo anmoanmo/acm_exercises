@@ -1,0 +1,30 @@
+type: codeforces
+custom_name: F2. Playing Quidditch (Medium)
+files:
+  - name: CMakeLists.txt
+    visible: false
+    learner_created: false
+  - name: src/main.cpp
+    visible: true
+    learner_created: false
+  - name: testData/1/input.txt
+    visible: true
+    learner_created: false
+  - name: testData/1/output.txt
+    visible: true
+    learner_created: false
+  - name: testData/2/input.txt
+    visible: true
+    learner_created: false
+  - name: testData/2/output.txt
+    visible: true
+    learner_created: false
+  - name: testData/3/input.txt
+    visible: true
+    learner_created: false
+  - name: testData/3/output.txt
+    visible: true
+    learner_created: false
+problem_index: F2
+feedback_link: https://codeforces.com/contest/1970/problem/F2?locale=en
+status: Unchecked

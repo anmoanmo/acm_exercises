@@ -1,0 +1,20 @@
+5 5
+.. R1 .. B1 ..
+RG .. .. .. BG
+RG R0 .Q B0 BG
+RG .. .. .. BG
+.. R2 .. B2 ..
+13
+B2 U
+B2 U
+B2 L
+B2 C .Q
+B2 L
+B2 L
+B2 T
+R0 R
+R0 C .Q
+R0 D
+R0 R
+R0 R
+R0 T
