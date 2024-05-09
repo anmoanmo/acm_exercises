@@ -1,3 +1,0 @@
-C:\Users\27188\AppData\Local\Programs\CLion\bin\cmake\win\x64\bin\cmake.exe -E rm -f CMakeFiles\task21-run.dir/objects.a
-C:\Users\27188\AppData\Local\Programs\CLion\bin\mingw\bin\ar.exe qc CMakeFiles\task21-run.dir/objects.a @CMakeFiles\task21-run.dir\objects1.rsp
-C:\Users\27188\AppData\Local\Programs\CLion\bin\mingw\bin\g++.exe -g -Wl,--whole-archive CMakeFiles\task21-run.dir/objects.a -Wl,--no-whole-archive -o task21-run.exe -Wl,--out-implib,libtask21-run.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\task21-run.dir\linkLibs.rsp

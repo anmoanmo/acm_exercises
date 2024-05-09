@@ -1,3 +1,0 @@
-D:/clion/acm_exercises/acm/cmake-build-debug/CMakeFiles/acm.dir
-D:/clion/acm_exercises/acm/cmake-build-debug/CMakeFiles/edit_cache.dir
-D:/clion/acm_exercises/acm/cmake-build-debug/CMakeFiles/rebuild_cache.dir
