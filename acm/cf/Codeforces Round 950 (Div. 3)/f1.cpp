@@ -77,6 +77,7 @@ void sol() {
         long long row, col;
         cin >> row >> col;
         fields[i] = {col, row, i};
+
     }
 
     long long alice = n * m;

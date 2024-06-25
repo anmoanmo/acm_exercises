@@ -52,3 +52,21 @@ signed main() {
     }
     return 0;
 }
+
+// void solve() {
+//    int x, y, z;
+//    i64 k;
+//    std::cin >> x >> y >> z >> k;
+//
+//    i64 ans = 0;
+//    for (int a = 1; a <= x; a++) {
+//        for (int b = 1; b <= y; b++) {
+//            i64 c = k / a / b;
+//            if (a * b * c != k || c > z) {
+//                continue;
+//            }
+//            ans = std::max(ans, 1LL * (x - a + 1) * (y - b + 1) * (z - c + 1));
+//        }
+//    }
+//    std::cout << ans << "\n";
+//}
